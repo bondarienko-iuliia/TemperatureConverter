@@ -1,5 +1,5 @@
 # TemperatureConverter
-![App UI](https://Capture.PNG)
+![App UI](https://github.com/bondarienko-iuliia/TemperatureConverter/blob/main/Capture.PNG)
 ## Description
 
 * App converts temprature in Fahrenheit, Kelvin and Celsius.
